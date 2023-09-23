@@ -1,0 +1,5 @@
+package excercise
+
+trait MySet {
+
+}
