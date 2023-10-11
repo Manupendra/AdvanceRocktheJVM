@@ -1,4 +1,4 @@
-package lecture.beginnersRocktheJVM.p4fpinscala
+package lecture.beginnersRocktheJVM.p3fpinscala
 
 object MapFlatMapFilterFor extends App {
 
